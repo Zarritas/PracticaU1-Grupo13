@@ -1,0 +1,27 @@
+-Aplicación: https://www.figma.com
+
+-----MAQUETA Startup: Empresa desarrollo de videojuegos -------
+	-mapa navegación Provisional
+		-Inicio
+		-Nuestros proyectos
+			-Juego 1
+			-Juego 2
+			-Software 1
+			-Motor Gráfico
+		-Inicia sesion
+			-Perfil
+			-Ajustes
+			-Tus juegos
+			-Suscripciones
+		-Sobre Nosotros(Todo junto)
+		-Contactanos(Formulario)
+	-movil
+	-tablet
+	-ordenador
+---------------------------------------------------------------
+-Mapa de navegación (Lo de arriba)
+---------------------------------------------------------------
+-Guia de estilos(Colores, Fuentes, ETC)
+---------------------------------------------------------------
+-Preguntas
+	-¿Se debe generar todo el contenido o podemos usar texto e imagenes de relleno?
