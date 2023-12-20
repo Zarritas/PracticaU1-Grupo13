@@ -1,6 +1,7 @@
 -Aplicación: https://www.figma.com
 
------MAQUETA Startup: Empresa desarrollo de videojuegos -------
+-----MAQUETA Startup: Empresa desarrollo de videojuegos--------
+¡¡¡¡¡¡¡¡¡¡Solo pagina principal!!!!!!!!!!!!!!!
 	-mapa navegación Provisional
 		-Inicio
 		-Nuestros proyectos
@@ -25,3 +26,4 @@
 ---------------------------------------------------------------
 -Preguntas
 	-¿Se debe generar todo el contenido o podemos usar texto e imagenes de relleno?
+		intentar que sean reales y no generados automaticamente
